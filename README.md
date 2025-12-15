@@ -15,5 +15,5 @@ I am a developer who loves building practical software solutions and exploring n
 
 📫 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/udesh-rashmika-55487b1b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/udesh-rashmika-55487b1b4)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />](YOUR_PORTFOLIO_URL_HERE)
