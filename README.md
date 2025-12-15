@@ -22,7 +22,7 @@ I am a developer who loves building practical software solutions and exploring n
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udeshrashmika&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=udeshrashmika&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
