@@ -14,19 +14,6 @@ I am a developer who loves building practical software solutions and exploring n
 
 ---
 
-📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udeshrashmika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udeshrashmika&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=udeshrashmika&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
 📫 Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL_HERE)
